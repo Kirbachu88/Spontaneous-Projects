@@ -1,0 +1,308 @@
+2D Animator
+Make 2D images move using hand drawings or computer software.
+
+3D Animator
+Bring illustrated objects to life for movies and video games.
+
+3D Modeler
+Create digital models that can be viewed from all angles.
+
+Animation Supervisor
+Oversee the work of a team of Animators.
+
+Animation Technical Director
+Lead an animation team in creating high-tech graphics for a film.
+
+Animator
+Make illustrated objects come to life using artistic and technical talents.
+
+Artificial Intelligence Specialist
+Invent technology that can think like humans.
+
+Bioinformatics Software Engineer
+Create software that organizes huge amounts of genetic information.
+
+Book Designer
+Craft attention-grabbing book covers.
+
+Business Intelligence Analyst
+Identify trends to help make business decisions.
+
+Character Designer
+Create the appearance of complex animated characters.
+
+Cinematic Artist
+Produce graphics that make video games flow like a movie.
+
+Cisco Certified Internetwork Expert
+Hold high-level certification in managing complex computer networks.
+
+Clinical Informatics Director
+Manage systems that monitor patient information in hospitals or clinics.
+
+Compositor
+Put animation and real film footage together to make one amazing movie.
+
+Computer Forensics Investigator
+Recover deleted computer files as evidence in criminal cases.
+
+Computer Hardware Engineer
+Help design and test new computer electronics.
+
+Computer Science Professor
+Teach university students about computer science.
+
+Computer Support Specialist
+Help customers troubleshoot computer issues.
+
+Concept Artist
+Think up characters, objects, or environments for films or video games.
+
+Cybersecurity Strategist
+Work in-house or as a Consultant, creating plans to prevent cyber attacks.
+
+Data Architect
+Create a system for processing company information.
+
+Data Scientist
+Analyze a company’s stored information to identify trends.
+
+Data Warehouse Specialist
+Design and build a virtual storehouse for company information.
+
+Database Analyst
+Assess whether company information is easily collected and retrieved.
+
+Document Imaging Specialist
+Covert company files into digital format.
+
+eCommerce Consultant
+Guide clients through the process of taking their business online.
+
+EDI Systems Analyst
+Equip companies with the fastest data transfer systems.
+
+Electronics Engineer
+Design, create and test new electrical gadgets.
+
+Enterprise Architect
+Ensure that a company’s IT system perfectly matches its business goals.
+
+Environment Artist
+Design the scenery of a video game.
+
+Ethical Hacker
+Find a computer system’s weak spots by deliberately hacking it.
+
+Flash Designer
+Create animated, interactive web pages using Flash.
+
+Food Stylist
+Make food look scrumptious for photo and film shoots.
+
+Game Artist
+Create visuals for video games.
+
+Game Designer
+Think up concepts and storylines for video games.
+
+Game Developer
+Create video games as a Designer, Programmer, or Artist.
+
+Game Director
+Serve as the creative brains behind video games.
+
+Game Producer
+Complete video game projects by overseeing schedules, budgets, and staff.
+
+Game Programmer
+Write the code for computer games.
+
+Game Tester
+Play video games to make sure they’re bug-free.
+
+Graphic Designer
+Create high impact images that deliver a message.
+
+Illustrator
+Create images and pictures to enrich stories.
+
+Infographic Artist
+Use graphics to express ideas, facts, and information.
+
+Information Architect
+Arrange web or software content in an attractive and user-friendly manner.
+
+Information Technology Consultant
+Use your expertise to solve IT problems for clients.
+
+Interaction Designer
+Make gadgets user-friendly.
+
+Interactive Designer
+Create websites that encourage user participation.
+
+IT Instructor
+Give classes in information technology.
+
+IT Operations Analyst
+Maintain IT systems for a company.
+
+Java Developer
+Use the Java programming language to build computer programs.
+
+Layout Artist
+Arrange a web page, poster, or magazine in an appealing manner.
+
+Lead Software Engineer
+Evaluate a company’s needs and develop software to address them.
+
+Level Designer
+Create the scenery and other elements of individual game levels.
+
+Matte Painter
+Make backdrops for movies.
+
+Mobile Application Developer
+Create games and other apps for smartphones.
+
+Modeling Supervisor
+Lead the process of turning rough drawings into digital models.
+
+Motion Graphic Artist
+Design dynamic graphics through animation, video, and sounds.
+
+Multimedia Artist
+Show your art in a variety of channels, like digital, film, and video.
+
+Network Administrator
+Monitor a company’s computer network to ensure peak performance.
+
+Network Analyst
+Evaluate a company’s needs to see what kind of network is a good match.
+
+Network Architect
+Plan the best computer network to suit a company’s processes.
+
+Network Designer
+Arrange a company’s computer network in the fastest possible setup.
+
+Network Engineer
+Build, test, and maintain a company’s computer network.
+
+Network Manager
+Oversee a team charged with installing and maintaining computer networks.
+
+New Media Specialist
+Use the Internet to market a company.
+
+Nurse Informaticist
+Equip nurses with technology to enable high-quality patient care.
+
+Online Media Buyer
+Buy advertising space on the Internet for your clients.
+
+Professional Gamer
+Get good enough at video games to enter tournaments and win prize money.
+
+Quality Assurance Engineer
+Create and implement procedures for evaluating product quality.
+
+Quality Assurance Manager
+Oversee the workers involved in testing products.
+
+Search Engine Optimization Specialist
+Tweak websites so they rank higher in search engine results.
+
+Security Administrator
+Keep entire computer networks safe from harm and hackers.
+
+Semiconductor Process Engineer
+Improve and manage the step-by-step process of creating a computer chip.
+
+Senior Web Developer
+Direct a team of Web Developers through projects.
+
+SEO Analyst
+Drive a website to the top of search rankings by fixing its content.
+
+SEO Consultant
+Advise companies on how to improve their search engine rankings.
+
+Sign Designer
+Create inviting signs for businesses.
+
+Software Architect
+Oversee the design and implementation of computer software.
+
+Software Developer
+Build, test, and market computer software.
+
+Software Engineer
+Design, program, and update software.
+
+Software Release Manager
+Guide software products through development, testing, and release.
+
+Software Tester
+Scrutinize software to find its flaws.
+
+Statistical Programmer
+Develop computer software that organizes statistical data.
+
+Stop Motion Animator
+Make animated films or shorts using the stop motion technique.
+
+Storyboard Artist
+Create a series of drawings showing the flow of a movie or ad.
+
+System Administrator
+Keep your company’s computer systems up and running.
+
+Systems Analyst
+Match clients with the best computer systems for their needs.
+
+Systems Architect
+Design computer networks.
+
+Systems Engineer
+Create systems for implementing business processes.
+
+Technical Artist
+Design awesome game graphics that won’t cause computers to crash.
+
+Telecommunications Engineer
+Design, build, and maintain telecommunications equipment.
+
+Telecommunications Specialist
+Plan and install telecommunications systems for clients.
+
+Texture Artist
+Draw the details that make games and animated movies look more realistic.
+
+User Experience Designer
+Make a website enjoyable and easy to use.
+
+User Interface Designer
+Equip devices with user-friendly features.
+
+Video Game Technical Artist
+Animate game art by writing its computer code.
+
+Visual Development Artist
+Help develop the visual world of an animated film.
+
+Web Content Manager
+Fill web pages with relevant content, including videos, text, and photos.
+
+Web Designer
+Create attractive and functional websites for clients.
+
+Web Developer
+Build the programming behind websites.
+
+Web Editor
+Make sure a company’s web content is in line with its image and goals.
+
+Webmaster
+Monitor and update websites.
